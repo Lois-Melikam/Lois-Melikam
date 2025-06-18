@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lois-Melikam
+- 👋 Hi, I’m @Chimdinma Melikam
+- 💞️ A Data Analyst with a background in Computer Science
+- 🌱I am analytically curious with proficiency working with Power BI, SQL, and Excel.
 - 👀 I’m interested in Data Analysis Roles, either hybrid, remote or physical
-- 🌱 I’m skilled in Excel, SQL, and Power BI 
-- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me? reach me via email: loismelikam@gmail.com
 - 😄 Pronouns: Love
 - ⚡ Fun fact: I'm a team player

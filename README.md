@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chimdinma Melikam
+- 👋 Hi, I’m Chimdinma Melikam
 - 💞️ A Data Analyst with a background in Computer Science
 - 🌱I am analytically curious with proficiency working with Power BI, SQL, and Excel.
 - 👀 I’m interested in Data Analysis Roles, either hybrid, remote or physical
